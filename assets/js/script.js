@@ -1,9 +1,9 @@
 const container = document.querySelector('.container')
 const text = document.querySelector('#text')
 
-const totalTime = 10000
-const breatheTime = (totalTime / 5) * 2
-const holdTime = totalTime / 5
+const totalTime = 12000
+const breatheTime = totalTime / 3
+const holdTime = totalTime / 3
 
 breatheAnimation()
 

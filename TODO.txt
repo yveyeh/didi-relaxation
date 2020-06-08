@@ -1,8 +1,10 @@
 ToDo
 ====
 
+- Change ball color when in different sections.
 - Add background relaxation music.
 - Add background relaxation video.
+- Make application responsive.
 - Reduce sizes of circles and move pointer to the interior.
 - Add exercise duration setter.
 - Add rounds counter.
