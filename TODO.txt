@@ -1,0 +1,10 @@
+ToDo
+====
+
+- Add background relaxation music.
+- Add background relaxation video.
+- Reduce sizes of circles and move pointer to the interior.
+- Add exercise duration setter.
+- Add rounds counter.
+- Add language settings features.
+- Create node package.

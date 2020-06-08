@@ -1,4 +1,8 @@
 Didi Relaxation
 ===============
 
-A simple breathing and relaxation web app.
+A simple breathing and relaxation web application.
+
+# Usage
+
+Coming up soon...
