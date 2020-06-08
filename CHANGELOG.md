@@ -10,3 +10,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Set up project and created all project files.
+
+### Changed
+
+- Improved the "Hold" time.
