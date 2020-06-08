@@ -14,3 +14,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Improved the "Hold" time.
+
+### Removed
+
+- Deleted the TODO.txt file and created issues in place of this.
